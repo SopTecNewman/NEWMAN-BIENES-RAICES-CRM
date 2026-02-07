@@ -1,0 +1,8 @@
+{
+  "name": "Newman Bienes Raíces - CRM & Inversiones 1",
+  "description": "Una plataforma integral para la gestión inmobiliaria en Yucatán, especializada en lotes de inversión con alto rendimiento. Incluye CRM, cotizadores en tiempo real y asesoría experta con IA (Yulia).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
